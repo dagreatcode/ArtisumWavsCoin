@@ -8,9 +8,17 @@
     "dev": "tsc -w",
     "start": "tsc && node ."
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagreatcode/ArtisumWavsCoin.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagreatcode/ArtisumWavsCoin/issues"
+  },
+  "homepage": "https://github.com/dagreatcode/ArtisumWavsCoin#readme",
   "devDependencies": {
     "@types/node": "^22.1.0",
     "typescript": "^5.5.4"
